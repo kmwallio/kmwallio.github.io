@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.1.0/pure-min.css">
+        <link rel="stylesheet" href="/css/cssextras.css">
+        <link rel="stylesheet" href="/css/home.css">
+
+    </head>
+    <body>
+
+        <div class="container">
+          <div class="site">
+            <div class="header">
+              <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+              <div class="pure-menu pure-menu-open pure-menu-horizontal">
+                <ul>
+                  <li><a href="/">home</a></li>
+                  <li><a href="/projects">projects</a></li>
+                  <li><a href="/archive.html">musings</a></li>
+                  <li><a href="http://github.com/kmwallio">github</a></li>
+                  <li><a href="http://twitter.com/kmwallio">twitter</a></li>
+                </ul>
+              </div>
+            </div>
+     
+                {{ content }}
+
+            <div class="footer">
+              <div class="contact">
+                <p>
+                  Miles Wallio<br />
+                  <a href="mailto:miles@wallio.net">miles@wallio.net</a>
+                </p>
+              </div>
+              <div class="contact">
+                <p>
+                  <a href="http://github.com/kmwallio/">github.com/kmwallio</a><br />
+                  <a href="http://twitter.com/kmwallio/">twitter.com/kmwallio</a><br />
+                </p>
+              </div>
+            </div>
+          </div>
+        </div> <!-- /container -->
+
+    </body>
+</html>
