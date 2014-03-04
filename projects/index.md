@@ -3,6 +3,12 @@ layout: default
 title: Projects - Miles Wallio
 ---
 
+## [Town and Country Raspberry Pi](https://github.com/kmwallio/town-and-country-raspberry-pi#town-and-country-raspberry-pi)
+
+*In Development*
+
+A media client for my Town and Country.  It allows me to push content to the Raspberry Pi sitting in my car.  The Pi will automatically play music from a playlist I specify.  If other people are in the car, they can control the Pi using a web application.
+
 ## [BookMark'd](https://github.com/kmwallio/BookMarkd)
 
 BookMark'd saves links and makes them searchable.  BookMark's indexes pages you find interesting making them easier to access when you want to go back to them.
