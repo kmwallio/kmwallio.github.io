@@ -3,7 +3,7 @@ layout: default
 title: Projects - Miles Wallio
 ---
 
-## [Town and Country Raspberry Pi](https://github.com/kmwallio/town-and-country-raspberry-pi#town-and-country-raspberry-pi)
+## [Town and Country Raspberry Pi](http://carpi.miles-is.sexy)
 
 *In Development*
 
