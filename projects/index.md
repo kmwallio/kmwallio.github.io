@@ -7,7 +7,7 @@ title: Projects - Miles Wallio
 
 Acme::Skynet is toy intent identifier.  It attempts to extract "useful" information from a phrase and route that information to the proper subroutine.  Whether this works well or not is a completely different story.
 
-Read the [blog post](http://1.6km.me) for more.
+Read the [blog post](http://1.6km.me/blog/2016/03/18/Determining-Intent-Pt-1/) for more.
 
 ## [Town and Country Raspberry Pi](http://carpi.miles-is.sexy)
 
