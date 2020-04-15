@@ -3,6 +3,12 @@ layout: default
 title: Projects - Miles Wallio
 ---
 
+## [ThiefMD](/ThiefMD) (Vala)
+
+[ThiefMD](/ThiefMD) is a [Markdown](https://daringfireball.net/projects/markdown/) editor inspired by [Ulysses](https://ulysses.app). The code is forked from [Quilter](https://github.com/lainsce/quilter). It uses [iA Writer Duospace](https://github.com/iaolo/iA-Fonts) as the font, and [Spledor](https://github.com/markdowncss/splendor) as the preview CSS.
+
+This is the project I use to learn Vala along with trying to satisfy me missing certain applications from my Mac.
+
 ## [Acme::Skynet](https://github.com/kmwallio/Acme-Skynet) (Perl 6)
 
 Acme::Skynet is toy intent identifier.  It attempts to extract "useful" information from a phrase and route that information to the proper subroutine.  Whether this works well or not is a completely different story.
