@@ -1,0 +1,19 @@
+{
+  "sheet-order" : [
+    "README.md"
+  ],
+  "hidden-folders" : [
+    "_scss",
+    "images",
+    "_layouts",
+    "css"
+  ],
+  "folder-order" : [
+    "_scss",
+    "images",
+    "_layouts",
+    "css",
+    "projects",
+    "_posts"
+  ]
+}
