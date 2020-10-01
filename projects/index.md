@@ -9,6 +9,21 @@ title: Projects - Miles Wallio
 
 This is the project I use to learn Vala along with trying to satisfy me missing certain applications from my Mac.
 
+## [libwritegood](https://github.com/ThiefMD/libwritegood-vala) (Vala)
+
+libwritegood is a port of [btford/write-good](https://github.com/btford/write-good) to Vala. Find passive voice, repeat words, long sentences, weak words, and other style checks.
+
+![](/images/writegood.png)
+
+libwritegood highlights problematic words, phrases, and sentences. Right-clicking on the highlighted words alerts the user of what libwritegood thinks can be improved.
+
+
+## [Ulysses & GtkSourceView Theme Generator](https://github.com/ThiefMD/theme-generator) (Vala)
+
+Keep your Markdown styles consistent between your editors, from macOS to Linux and even [Windows](https://www.microsoft.com/store/apps/9PL1J21XF0PT)?
+
+Theme-Generator provides an interface for picking colors and customizing the way Markdown syntax is rendered. Users can create both a Light and Dark Theme, then export it into various formats. Ulthemes will work with [Ulysses](https://ulysses.app) and [ThiefMD](https://thiefmd.com). [GtkSourceView Style Schemes](https://wiki.gnome.org/Projects/GtkSourceView/StyleSchemes) will work in gedit, and other editors built on [GtkSourceView](https://wiki.gnome.org/Projects/GtkSourceView).
+
 ## [Acme::Skynet](https://github.com/kmwallio/Acme-Skynet) (Perl 6)
 
 Acme::Skynet is toy intent identifier.  It attempts to extract "useful" information from a phrase and route that information to the proper subroutine.  Whether this works well or not is a completely different story.
